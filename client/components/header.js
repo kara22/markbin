@@ -20,7 +20,6 @@ class Header extends Component {
       <nav className="nav navbar-default">
         <div className="navbar-header">
           <Link to="/" className="navbar-brand">Markbin</Link>
-
         </div>
         <ul className="nav navbar-nav">
             <li>
